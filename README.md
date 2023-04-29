@@ -1,4 +1,4 @@
-# Project 5 - FPS Maze
+# Project 6 - 3D RPG
 This is a project that was completed for the Game Technology course at Indiana University.
 
 In this game, you must interact with an NPC to start a challenge in which you must shoot four targets, then defeat 
